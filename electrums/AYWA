@@ -1,12 +1,9 @@
 [
   {
-    "108.61.177.197": 50001,
+    "electrum1.getaywa.org": 50001,
     "contact": [
       {
         "email": "devs@getaywa.org"
-      },
-      {
-        "matrix": "@cipig:matrix.org"
       }
     ]
   }
